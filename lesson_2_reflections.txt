@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Maybe to tell git that you want to treck separately
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+I guess that it is a kind of sub-repository. You can leave your files there, but it will not affect your repository before you commit it. And maybve it is the same related to the working directory. You can keep a bunch of files there, but you don't need to keep track of everything.
+
