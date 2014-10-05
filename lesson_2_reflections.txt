@@ -7,3 +7,28 @@ How is the staging area different from the working directory and the repository?
 
 I guess that it is a kind of sub-repository. You can leave your files there, but it will not affect your repository before you commit it. And maybve it is the same related to the working directory. You can keep a bunch of files there, but you don't need to keep track of everything.
 
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can organize what changes I want to commit and thus organize it in a logicl way. 
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+To keep different changes separately before I merge everithing? It would help me not to mess up my main project while I experiment things.
+
+
+How do the diagrams help you visualize the branch structure?
+
+It is easy to visualize the structure of my git.
+
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do
+
+You create one new branch with all the commits made in each one. Using the diagram, you can see if any sub-branches created will be lose if you merge the main branches.
+
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pros: The git finds where should merge alone nd you don't need to search for differences by yourself.  When it can't merges, it points out where the conflict is.
+cons: You have to commit your changes and learn how to do it. Biside that, I don't think that there are other cons.
