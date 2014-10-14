@@ -15,3 +15,8 @@ Fork is a kind of clone made in your github account. It stays linked to the orig
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can change the files freely and without introduce potential bugs in the working codes.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I could use a shared folder in my Dropbox or I could use the google docs. Talking about codes, it would be really hard to make changes in the same file and keep track of them. Probably I would have to plan much more how to collaborate and adopt a more “split the work“ approach. I mean, each people envolved would have to work in a specific part of the project. 
