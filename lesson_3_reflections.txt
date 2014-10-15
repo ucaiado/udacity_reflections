@@ -20,3 +20,8 @@ You can change the files freely and without introduce potential bugs in the work
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 I could use a shared folder in my Dropbox or I could use the google docs. Talking about codes, it would be really hard to make changes in the same file and keep track of them. Probably I would have to plan much more how to collaborate and adopt a more “split the work“ approach. I mean, each people envolved would have to work in a specific part of the project. 
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+To organize different changes where I am working on, separately. If I do everything in the master, maybe it seems that I can prototype faster, but if I start to work on different parts of my code at the same time, things can become messy easily.
